@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842718785615",
+    "firebase_url": "https://iot-based-health-monitor-206a6-default-rtdb.firebaseio.com",
+    "project_id": "iot-based-health-monitor-206a6",
+    "storage_bucket": "iot-based-health-monitor-206a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842718785615:android:026b2aafdac0276ccbfa3a",
+        "android_client_info": {
+          "package_name": "com.example.medkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842718785615-5uqfiuk8qlf3vomhfl7616ivi3q3mhag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medkit",
+            "certificate_hash": "4764e784eceefe2fd16895c5663b5788718a147f"
+          }
+        },
+        {
+          "client_id": "842718785615-o77j1lq2jpr2s6br9q7bd7s23uaj58r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Mhi13BtLlta9cnj9mZVp7p9CeC9Egj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842718785615-o77j1lq2jpr2s6br9q7bd7s23uaj58r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
